@@ -1,6 +1,6 @@
 # Case Converter 
 
-## [Live Link](http://case-converter-indol.vercel.app/)
+## [Live Link](https://case-converter-alpha.vercel.app)
 
 
 ## Cases Types:
